@@ -1,4 +1,3 @@
-# mapir-ros-pkg
-This repository provides ROS pkgs and tools from the Machine Perception and Intelligent Robotics research group [(MAPIR)](http://mapir.isa.uma.es).
-
-Documentation and Tutorials can be found in the ROS-Wiki: http://wiki.ros.org/mapir-ros-pkgs
+# Important! This is a discontinued repository.
+If you are looking for the RF2O pkg, please use this git: https://github.com/MAPIRlab/rf2o_laser_odometry
+Other interesting Robotics pkgs from the MAPIR group can be found here: https://github.com/MAPIRlab
